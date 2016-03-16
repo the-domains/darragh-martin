@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Darragh Martin]]></title>
         <description><![CDATA[Darragh Martin]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/darragh-martin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 14:14:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 16 Mar 2016 14:26:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/darragh-martin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ac17871-935c-42e6-9d90-3bbbf6bc7a02.jpg">]]></description>
+            <link>https://thegrid.ai/darragh-martin/fe0a63fa-a10e-4940-99cf-fdd2826821c4/index.html</link>
+            <guid isPermaLink="false">fe0a63fa-a10e-4940-99cf-fdd2826821c4</guid>
+            <pubDate>Wed, 16 Mar 2016 14:26:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d86ed1d2-fbe5-4848-b6f6-d62177e0fb23.jpg">]]></description>
-            <link>undefinedtest-post-to-see-what-this-site-will-look-like-i-will-likel/index.html</link>
+            <link>https://thegrid.ai/darragh-martin/test-post-to-see-what-this-site-will-look-like-i-will-likel/index.html</link>
             <guid isPermaLink="false">27e6c397-0272-423a-9350-bbf1e90fa2b8</guid>
             <pubDate>Wed, 16 Mar 2016 14:13:44 GMT</pubDate>
         </item>
